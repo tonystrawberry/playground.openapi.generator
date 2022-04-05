@@ -1,6 +1,8 @@
 # Learn how to use OpenAPI Generator to generate Typescript frontend client code
 
+ 
 0. Prerequisites: installing Java on your machine.
+
 1. Installing openapi-generator-cli
 
 ```
